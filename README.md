@@ -1,10 +1,10 @@
-# Λΰαϋ
+ο»Ώ# Π›Π°Π±Ρ‹
 
-1.    [Ββεδενθε 1] (https://raw.githubusercontent.com/RAEM-LPR/pyLaba/main/lab1.ipynb)
+1.    [Π’Π²ΠµΠ΄ΠµΠ½ΠΈΠµ 1] (https://raw.githubusercontent.com/RAEM-LPR/pyLaba/main/lab1.ipynb)
 
-2.    [Ββεδενθε 2] (https://raw.githubusercontent.com/RAEM-LPR/pyLaba/main/lab2.ipynb)
+2.    [Π’Π²ΠµΠ΄ΠµΠ½ΠΈΠµ 2] (https://raw.githubusercontent.com/RAEM-LPR/pyLaba/main/lab2.ipynb)
 
-3.    [Ββεδενθε 3] (https://raw.githubusercontent.com/RAEM-LPR/pyLaba/main/lab3.ipynb)
+3.    [Π’Π²ΠµΠ΄ΠµΠ½ΠΈΠµ 3] (https://raw.githubusercontent.com/RAEM-LPR/pyLaba/main/lab3.ipynb)
 
 4.    [NumPy 1] (https://raw.githubusercontent.com/RAEM-LPR/pyLaba/main/lab4.ipynb)
 
